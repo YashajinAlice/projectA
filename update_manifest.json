@@ -2,11 +2,31 @@
     "files": [
         {
             "path": "src/assets/announcements.md",
-            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/announcements.md"
+            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/Line貼圖/"
         },
         {
-            "path": "src/ui/about.py",
-            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/ui/about.py"
+            "path": "src/assets/Line貼圖/用心支付.png",
+            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/Line貼圖/用心支付.png"
+        },
+        {
+            "path": "src/assets/Line貼圖/用心支付.psd",
+            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/Line貼圖/用心支付.psd"
+        },
+        {
+            "path": "src/assets/Line貼圖/好餓.png",
+            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/Line貼圖/好餓.png"
+        },
+        {
+            "path": "src/assets/Line貼圖/好餓.psd",
+            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/Line貼圖/好餓.psd"
+        },
+        {
+            "path": "src/assets/Line貼圖/收到!.png",
+            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/Line貼圖/收到!.png"
+        },
+        {
+            "path": "src/assets/Line貼圖/收到!.psd",
+            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/Line貼圖/收到!.psd"
         }
     ]
 }
