@@ -13,7 +13,7 @@ from ui.app_launcher import AppLauncherPage
 from ui.game_launcher import GameLauncherPage
 from ui.about import AboutPage
 from ui.settings import SettingsPage
-# from ui.update_checker import check_for_updates
+from ui.update_checker import check_for_updates
 from ui.splash_screen import SplashScreen
 from ui.utils import load_stylesheet, get_settings
 

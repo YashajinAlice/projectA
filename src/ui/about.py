@@ -3,7 +3,7 @@ from PyQt5.QtWidgets import (QWidget, QVBoxLayout, QLabel, QPushButton,
                             QDialog, QTextBrowser, QHBoxLayout)
 from PyQt5.QtCore import Qt
 from PyQt5.QtGui import QPixmap
-# from ui.update_checker import check_for_updates
+from ui.update_checker import check_for_updates
 
 
 class AnnouncementDialog(QDialog):
