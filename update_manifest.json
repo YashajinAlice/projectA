@@ -1,10 +1,6 @@
 {
     "files": [
         {
-            "path": "src/assets/announcements.md",
-            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/Line貼圖/"
-        },
-        {
             "path": "src/assets/Line貼圖/用心支付.png",
             "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/Line貼圖/用心支付.png"
         },
