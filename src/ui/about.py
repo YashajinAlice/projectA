@@ -69,7 +69,7 @@ class AnnouncementDialog(QDialog):
 class AboutPage(QWidget):
     def __init__(self):
         super().__init__()
-        self.version = "1.0.0"
+        self.version = "1.0.3"
         self.update_date = "2025-05-04"
         
         layout = QVBoxLayout()

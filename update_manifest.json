@@ -3,6 +3,10 @@
         {
             "path": "src/assets/announcements.md",
             "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/announcements.md"
+        },
+        {
+            "path": "src/ui/about.py",
+            "url": "https://raw.githubusercontent.com/YashajinAlice/projectA/main/src/assets/ui/about.py"
         }
     ]
 }

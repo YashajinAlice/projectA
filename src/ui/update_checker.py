@@ -7,7 +7,7 @@ def check_for_updates():
     检查GitHub上是否有更新并自动更新文件
     """
     # 当前版本
-    current_version = "1.0.0"
+    current_version = "1.0.3"
     
     try:
         # GitHub 仓库信息

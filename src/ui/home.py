@@ -8,7 +8,7 @@ from PyQt5.QtCore import Qt, QTimer, QDateTime
 class HomePage(QWidget):
     def __init__(self):
         super().__init__()
-        self.version = "1.0.0"
+        self.version = "1.0.3"
         self.running_apps = []
         
         # 主布局
